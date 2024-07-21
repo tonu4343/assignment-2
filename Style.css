@@ -1,0 +1,358 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+.inter-font{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight : 400;
+  font-style: normal;
+  }
+
+
+
+  .background-color{
+    background: rgba(17, 17, 17, 1);
+   }
+
+   .nabver1{
+    max-width: 1440px;
+   margin: 3rem;
+
+   }
+   
+  .display-flex{
+    display: flex;
+  }
+  .text-gay-color{
+    color:  rgba(255, 255, 255, 1);
+    ;
+  }
+  .nav-linktext-gay-color1{
+    width: Hug (92px)px;
+    height: Hug (38px)px;
+    padding: 8px 20px 8px 20px;
+    gap: 10px;
+    border-radius: 46px ;
+    opacity: 0px;
+    background-color:  rgba(230, 83, 60, 1);
+    text-decoration: none;
+
+
+
+  }
+ 
+  .nabver{
+    justify-content: space-between;
+    color:  rgba(230, 83, 60, 1);
+    font-style: italic;
+    
+  }
+  .nav-item{
+    list-style: none;
+    margin-right: 30px;
+  }
+  .nav-link{
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 18px;
+
+
+  }
+
+  .banner-tittle{
+    
+    font-size: 75px;
+    font-weight: 900;
+    line-height: 93.6px;
+    text-align: left;
+    color:  rgba(255, 255, 255, 1);
+    ;
+
+  }
+  .spanp{
+    font-family: Miama;
+    font-size: 55px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 93.6px;
+    text-align: left;
+
+  }
+  .banner-description{
+    
+    
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.5px;
+    text-align: left;
+    color:  rgba(255, 255, 255, 0.5);
+    
+
+  }
+  .button1{
+    width: Fixed (224px)px;
+    height: Hug (54px)px;
+    padding: 16px 40px 16px 40px;
+    gap: 10px;
+    border-radius: 42px ;
+    opacity: 0px;
+   background-color:   rgba(230, 83, 60, 1);
+    }
+
+    .button2{
+        width: Fixed (224px)px;
+        height: Hug (54px)px;
+        padding: 16px 40px 16px 40px;
+        gap: 10px;
+        border-radius: 42px ;
+        border: 5px 0px 0px 0px;
+        opacity: 1px;
+
+        background-color:rgba(17, 17, 17, 1) ;
+        
+        
+
+    }
+
+    .img1{
+        width: 349px;
+        height: 580px;
+        top: 135px;
+        left: 877px;
+        gap: 20px;
+        opacity: 0px;
+       text-align: right;
+       float: right;
+       
+      
+        
+
+    }
+    .content{
+      width: 193px;
+      height: 98px;
+      top: 260px;
+    left: 1107px;
+    gap: 3px;
+    border-radius: 12px ;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    float: right;
+    
+    
+
+    }
+    .you_habit{
+      
+      font-size: 48px;
+      
+      
+      text-align: center;
+      color:  rgba(255, 255, 255, 1);
+      }
+      .fitness{
+        font-size: 14px;
+        text-align: center;
+        color:  rgba(255, 255, 255, 0.5);
+        ;
+
+      }
+      
+/* some gallary style
+         */
+         .gallary{
+          display: grid;
+          grid-template-columns: repeat(4,  1fr);
+          margin: 4rem;
+         }
+         .fact-icon{
+          border-radius: 50%;
+         }
+         .tille_name{
+          font-size: 18px;
+          
+          color: rgba(255, 255, 255, 1);
+          margin: 1px;
+          align-items: center;
+          justify-content: center;
+          text-align: center;
+          
+
+
+
+    }
+      .tille_drec{
+
+        font-size: 14px;
+        color:  rgba(255, 255, 255, 0.5);
+        margin: 1px;
+          align-items: center;
+          justify-content: center;
+          text-align: center;
+  } 
+  /* cardbox style */
+  .card_box{
+    width: 1060px;
+    height: 371px;
+    padding: 30px 32px 29px 54px;
+    margin: 3rem;
+    gap: 0px;
+    border-radius: 18px ;
+    opacity: 0px;
+    background: rgba(34, 34, 34, 1);
+    width: Fixed (1,060px)px;
+height: Hug (371px)px;
+top: 1367px;
+left: 190px;
+gap: 62px;
+opacity: 0px;
+
+
+
+
+  }
+  .run_hedding{
+    width: 443px;
+    height: 116px;
+    gap: 0px;
+    opacity: 0px;
+    
+    
+font-size: 48px;
+font-weight: 900;
+line-height: 57.6px;
+text-align: left;
+color:  rgba(255, 255, 255, 1);
+
+
+  }
+  .run_descrp{
+    width: 443px;
+height: 72px;
+gap: 0px;
+opacity: 0px;
+font-family: Inter;
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.30000001192092896px;
+text-align: left;
+color:  rgba(255, 255, 255, 0.5);
+
+
+  }
+  .run_button{
+    width: Fixed (224px)px;
+height: Hug (54px)px;
+padding: 16px 40px 16px 40px;
+gap: 10px;
+border-radius: 42px;
+opacity: 0px;
+background: rgba(230, 83, 60, 1);
+color: aliceblue;
+
+
+  }
+  .runimag{
+    width: 366px;
+height: 312px;
+top: 30px;
+left: 662px;
+gap: 0px;
+border-radius: 18px ;
+opacity: 0px;
+float: right;
+  }
+    /* tranin excrise      */
+    .train_thinking{
+      margin: 3rem;
+    }
+    
+    
+    
+    .train{
+  
+      width: 573px;
+      height: 58px;
+      gap: 0px;
+      opacity: 0px;
+      
+      font-size: 30px;
+      line-height: 57.6px;
+      text-align: left;
+      color:  rgba(255, 255, 255, 1);
+      
+
+      
+
+    }
+    .train_descrp{
+      width: 671px;
+      height: 48px;
+      gap: 0px;
+      opacity: 0px;
+
+      font-size: 14px;
+      font-weight: 400;
+      line-height: 24px;
+      letter-spacing: 0.30000001192092896px;
+      text-align: left;
+      color:  rgba(255, 255, 255, 0.5);
+
+
+    }
+    /* training and excrise */
+
+     .train_image_gallery{
+      margin: 3rem;
+      
+     }  
+     /* calculator traing */
+     .Calculator{
+      
+      padding: 3rem;
+
+      }
+      .calculator_contaner{
+        width: 353px;
+        height: 58px;
+        gap: 0px;
+        opacity: 0px;
+        font-family: Inter;
+        font-size: 48px;
+        font-weight: 900;
+        line-height: 57.6px;
+        text-align: left;
+        color:  rgba(255, 255, 255, 1);
+        
+
+
+
+      }
+
+      .calculator_pa{
+          width: 671px;
+          height: 48px;
+          gap: 0px;
+          opacity: 0px;
+          font-family: Inter;
+          font-size: 14px;
+          font-weight: 400;
+          line-height: 24px;
+          letter-spacing: 0.30000001192092896px;
+          text-align: left;
+          color:  rgba(255, 255, 255, 0.5);
+          
+
+
+      }
+      @media screen and (max-width:576px) {
+        .nabver1,
+        .nav-link,
+        .gallary
+        
+      }
+     
+      
+      
